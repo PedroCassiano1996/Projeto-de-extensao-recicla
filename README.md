@@ -1,4 +1,4 @@
-# Recicla - Belford Roxo
+# Reciclar - Belford Roxo
 
 O **Reciclar** é uma aplicação mobile desenvolvida como projeto de extensão para o curso de Análise e Desenvolvimento de Sistemas. O objetivo é facilitar a logística reversa de lixo eletrônico, conectando os cidadãos de Belford Roxo a pontos de coleta autorizados.
 
