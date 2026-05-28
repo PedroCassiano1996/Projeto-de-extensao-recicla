@@ -1,7 +1,7 @@
 [app]
 # Nome do seu app
-title = Recicla
-package.name = myapp-0.1
+title = Reciclar
+package.name = Reciclar
 package.domain = org.recicla
 source.include_exts = py,png,jpg,kv,atlas
 version = 1.0
